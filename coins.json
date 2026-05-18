@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Архістратиг Михаїл (c)",
+        "price": "6 011 грн",
+        "link": "https://coins.bank.gov.ua/arhistratig-mihajil-c-/p-1126.html",
+        "sale_date": "Немає дати",
+        "in_stock": true,
+        "first_seen_at": "2026-05-18T21:27:22",
+        "last_seen_at": "2026-05-18T21:28:10"
+    },
+    {
+        "name": "\"Архістратиг Михаїл\" (з)",
+        "price": "70 574 грн",
+        "link": "https://coins.bank.gov.ua/-arhistratig-mihajil-z-/p-1183.html",
+        "sale_date": "Немає дати",
+        "in_stock": true,
+        "first_seen_at": "2026-05-18T21:27:22",
+        "last_seen_at": "2026-05-18T21:28:10"
+    },
+    {
+        "name": "\"Боспорське царство\" у футлярі",
+        "price": "230 828 грн",
+        "link": "https://coins.bank.gov.ua/-bosporske-carstvo-u-phutljari/p-885.html",
+        "sale_date": "Немає дати",
+        "in_stock": true,
+        "first_seen_at": "2026-05-18T21:27:22",
+        "last_seen_at": "2026-05-18T21:28:10"
+    },
+    {
+        "name": "\"Херсонес Таврійський\" у футлярі",
+        "price": "230 828 грн",
+        "link": "https://coins.bank.gov.ua/-hersones-tavrijskij-u-phutljari/p-1016.html",
+        "sale_date": "Немає дати",
+        "in_stock": true,
+        "first_seen_at": "2026-05-18T21:27:22",
+        "last_seen_at": "2026-05-18T21:28:10"
+    },
+    {
+        "name": "Пам`ятна банкнота `Єдність рятує світ` у сувенірному пакованні",
+        "price": "245 грн",
+        "link": "https://coins.bank.gov.ua/pam-jatna-banknota-iednist-rjatuie-svit-u-suvenirnomu-pakovanni/p-1086.html",
+        "sale_date": "Немає дати",
+        "in_stock": true,
+        "first_seen_at": "2026-05-18T21:27:22",
+        "last_seen_at": "2026-05-18T21:28:10"
+    },
+    {
+        "name": "Пам`ятна банкнота номіналом 20 грн. до 160-річчя від дня народження І.Франка",
+        "price": "27 грн",
+        "link": "https://coins.bank.gov.ua/pam-jatna-banknota-nominalom-20-grn-do-160-richchja-vid-dnja-narodzhennja-i-phranka/p-838.html",
+        "sale_date": "Немає дати",
+        "in_stock": true,
+        "first_seen_at": "2026-05-18T21:27:22",
+        "last_seen_at": "2026-05-18T21:28:10"
+    },
+    {
+        "name": "\"Розстріляне відродження. Іван Падалка\" (н) у сувенірному пакованні",
+        "price": "Немає ціни",
+        "link": "https://coins.bank.gov.ua/-rozstriljane-vidrodzhennja-ivan-padalka-n-u-suvenirnomu-pakovanni/p-1194.html",
+        "sale_date": "у продажу 19 травня",
+        "in_stock": false,
+        "first_seen_at": "2026-05-18T21:27:22",
+        "last_seen_at": "2026-05-18T21:28:10"
+    },
+    {
+        "name": "\"Розстріляне відродження. Майк Йогансен\" (н) у сувенірному пакованні",
+        "price": "Немає ціни",
+        "link": "https://coins.bank.gov.ua/-rozstriljane-vidrodzhennja-majk-jogansen-n-u-suvenirnomu-pakovanni/p-1195.html",
+        "sale_date": "у продажу 19 травня",
+        "in_stock": false,
+        "first_seen_at": "2026-05-18T21:27:22",
+        "last_seen_at": "2026-05-18T21:28:10"
+    }
+]
